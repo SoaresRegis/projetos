@@ -108,8 +108,8 @@ function App() {
             transition={{ duration: 0.5, delay: 1 }}
             className="mt-4 text-slate-300 max-w-2xl"
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque unde,
-            in aperiam alias voluptatibus non vitae qui asperiores.
+            Converta visitantes em clientes com um design limpo, rápido, responsivo, 
+            construído em React + Tailwind.
           </motion.p>{" "}
           <motion.div
             initial={{ opacity: 0, y: 20 }}
